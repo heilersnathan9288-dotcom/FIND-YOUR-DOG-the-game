@@ -1,1 +1,3 @@
-# name-of-my-new-game
+# Find Your Dog
+
+This is a text-based game.
